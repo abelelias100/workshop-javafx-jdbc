@@ -16,7 +16,7 @@ import javafx.scene.control.MenuItem;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.VBox;
 
-public class ManVewController implements Initializable {
+public class ManViewController implements Initializable {
 
 	@FXML
 	private MenuItem menuItemSeller;
